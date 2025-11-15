@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Soumadri Paul 👋
 
-<!--
-**soumadripaul/soumadripaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer | Django • REST APIs • SQL  
+Learning DevOps | Building production-ready applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- React  
+- Python  
+- Django  
+- MySQL  
+- HTML, CSS, JavaScript  
+
+---
+
+## 🚀 Career Goal
+Python Developer | DevOps Enthusiast — focused on crafting reliable software solutions, streamlining CI/CD pipelines, and driving innovation through automation.
+
+---
+
+## 📘 What I'm Working On
+- Learning Django and backend fundamentals  
+- Improving database design and SQL skills  
+- Understanding CI/CD, Docker, Linux  
+- Preparing for real DevOps projects  
+
+---
+
+## 📬 Contact  
+- **Email: soumadripaul007@gmail.com 
+- **LinkedIn: https://www.linkedin.com/in/soumadri-paul-007x/
+- **GitHub: https://github.com/soumadripaul
+
+---
