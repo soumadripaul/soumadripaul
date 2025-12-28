@@ -1,6 +1,6 @@
 # Hi, I'm Soumadri Paul 👋
 
-Python Developer | Django • REST APIs • SQL  
+Full Stack Developer | Django • REST APIs • React • SQL
 Learning DevOps | Building production-ready applications
 
 ---
