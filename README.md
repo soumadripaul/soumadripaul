@@ -114,31 +114,6 @@ DevOps:
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soumadripaul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumadripaul&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumadripaul&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumadripaul&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="center">
