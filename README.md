@@ -1,27 +1,25 @@
+<h1 align="center"> Hi 👋, I'm Soumadri Paul</h1>
 
-<h1 align="center">Hi 👋, I'm Soumadri Paul</h1>
+<h3 align="center">Python Backend Developer | Python • Django • Django REST Framework • PostgreSQL</h3>
 
-<h3 align="center">
-Full Stack Developer | Python • Django • React • MySQL | DevOps Enthusiast
-</h3>
+Building reliable backend systems, RESTful APIs, and database-driven applications with clean architecture and practical engineering.
 
-<p align="center">
-  Building scalable backend systems, modern web applications, and creative full-stack solutions with clean architecture and real-world impact.
-</p>
-
-<br/>
 
 <p align="center">
   <a href="mailto:soumadripaul007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
-  <a href="https://www.linkedin.com/in/soumadri-paul-007x/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/soumadri-paul-23x/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
+  &nbsp;
   <a href="https://github.com/soumadripaul">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -29,43 +27,65 @@ Full Stack Developer | Python • Django • React • MySQL | DevOps Enthusiast
 
 ## 🚀 About Me
 
-- 🎯 Aspiring **Full Stack Developer & DevOps Enthusiast**
-- 💻 Passionate about building scalable and production-ready applications
-- ⚡ Focused on creating unique projects that stand out from traditional templates
-- 🧠 Continuously learning backend architecture, cloud workflows, and automation
-- 🐧 Exploring Linux systems, Docker, and DevOps practices
-- 🌱 Currently improving my skills in:
-  - Django & REST APIs
-  - Database Design & Optimization
-  - React Frontend Development
-  - Docker & CI/CD
-  - Linux Server Administration
-<br/>
+- 🎯 Aspiring **Python Backend Developer** and CSE student at BAIUST.
+- 🐍 Passionate about building robust backend applications using Python and Django.
+- ⚙️ Interested in RESTful API development, backend architecture, and database engineering.
+- 🔐 Exploring authentication, authorization, and secure API development.
+- 🗄️ Focused on database design, PostgreSQL, and query optimization.
+- 🐳 Exploring Docker, Linux, CI/CD, and modern deployment practices.
+
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Frontend Development
+## 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+---
+
+## ⚙️ Backend Development & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql" />
+</p>
+
+- Python & Django
+- Django REST Framework
+- RESTful API Development
+- JWT Authentication & Authorization
+- PostgreSQL & MySQL
+- Database Design & Management
+- API Integration
+
+---
+
+## 🎨 Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 </p>
 
----
-
-## ⚙️ Backend & Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,supabase" />
-</p>
+- React.js
+- JavaScript
+- HTML5 & CSS3
+- Frontend–Backend Integration
 
 ---
 
 ## 🚀 DevOps & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode" />
 </p>
+
+- Docker & Containerization
+- Linux Fundamentals
+- Git & GitHub
+- Development Workflows
+- CI/CD Fundamentals
 
 ---
 
@@ -73,76 +93,84 @@ Full Stack Developer | Python • Django • React • MySQL | DevOps Enthusiast
 
 ```yaml
 Backend:
-  - Advanced Django Architecture
-  - Authentication & Authorization
+  - Advanced Python & Django Architecture
+  - Django REST Framework
   - REST API Design
-  - Database Optimization
-Frontend:
-  - React Ecosystem
-  - Component-Based UI Design
-  - API Integration
+  - Authentication & Authorization
+  - Database Design & Optimization
+  - Automated Testing
+
+Databases:
+  - PostgreSQL
+  - SQL Query Optimization
+  - Database Modeling
+
 DevOps:
   - Docker Containerization
   - Linux Administration
   - CI/CD Fundamentals
-  - Deployment Workflows
-
+  - Application Deployment
 ```
+
 ---
 
 # 🧩 What I Love Building
 
-✨ Full Stack Web Applications  
-✨ API-Driven Backend Systems  
+✨ Python-Based Backend Applications  
+✨ RESTful APIs & Backend Services  
+✨ Database-Driven Web Applications  
+✨ Authentication & Authorization Systems  
 ✨ Automation & Productivity Tools  
 ✨ Dockerized Development Environments  
-✨ Clean & Scalable Architectures  
-✨ Real-World Problem Solving Projects  
+✨ Clean & Maintainable Software Architecture  
 
 ---
 
 # 🔥 Featured Interests
 
-- 🌐 Full Stack Development
 - 🐍 Python Ecosystem
 - ⚙️ Backend Engineering
+- 🌐 RESTful API Development
+- 🗄️ Database Engineering
+- 🔐 Authentication & Authorization
 - 🐳 Docker & Containers
 - 🐧 Linux Systems
 - ☁️ Cloud & DevOps
-- 📦 RESTful APIs
-- 🧠 Scalable Software Design
+- 🧠 Scalable Software Architecture
 
 ---
 
 # 🤝 Connect With Me
 
 <p align="center">
-
   <a href="mailto:soumadripaul007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
-  <a href="https://www.linkedin.com/in/soumadri-paul-007x/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/soumadri-paul-23x/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
+  &nbsp;
   <a href="https://github.com/soumadripaul">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
+  &nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
 # 💭 Developer Philosophy
 
-```txt
-Focused on writing clean code, building meaningful products,
-and continuously improving through learning and experimentation.
+```text
+Write clean code. Design reliable systems.
+Solve meaningful problems. Never stop learning.
 ```
 
 ---
 
 <p align="center">
-  ⭐️ Thanks for visiting my profile! ⭐️
+  ⭐️ Thanks for visiting my profile! Feel free to explore my repositories and connect. ⭐️
 </p>
